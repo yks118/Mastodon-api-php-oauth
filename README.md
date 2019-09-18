@@ -226,6 +226,3 @@ var_dump($response->responseData);
 
 ## API Document
 https://mastodon-api.manana.kr
-
-## Test Mastodon
-https://mastodon.manana.kr/
