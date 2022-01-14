@@ -223,6 +223,3 @@ var_dump($response->data);
 ```php
 var_dump($response->responseData);
 ```
-
-## API Document
-https://mastodon-api.manana.kr
